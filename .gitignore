@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# FAISS Index
+faiss_index_
+
 # C extensions
 *.so
 
